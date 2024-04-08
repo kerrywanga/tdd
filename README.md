@@ -1,7 +1,7 @@
 1. This is based on unit testing
 2. Perform tests on class methods
 3. Perform tests for requests from a server using a mocked server called [https://mockapi.io/projects]
-4. The demo also falls the principals of clean architecture
+4. The demo also falls the principles of clean architecture
 5. Then finally the UI to add users to the server and to fetch them and display them
 
 
